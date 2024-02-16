@@ -1,15 +1,14 @@
-header{
-    background-color:white;
+header
+{
     height: 70px;
     width: 100%;
-    background-image: url('/images/logo.png');
-    background-size: fill;
-    background-position: 20px center;
-    background-repeat: no-repeat;
-    border-bottom: 1px;
-    border-right-width: 0;
-    border-top-width: 0;
-    border-left-width: 0;
-    border-style: solid;
-    border-color: #CCCCCC;
+    background-color: white;
+    border-bottom: 1px solid #CCCCCC;
+}
+.logoimage 
+{
+    background-image: url('../images/logo.png');
+    width: 142px ;
+    height:62px ;
+    margin-left: 20px;
 }

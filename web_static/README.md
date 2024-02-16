@@ -1,1 +1,1 @@
-web static
+README Filesqdsqd

@@ -1,14 +1,16 @@
-footer{
-    background-color: white;
-    height: 60px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-top: 1px;
-    border-right-width: 0;
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-style: solid;
-    border-color: #CCCCCC;
+footer
+{
+    background-color:white; 
+    border-top: 1px solid #CCCCCC;
+    height: 60px; 
+    width: 100%; 
+    position:absolute;
+    bottom:0%;
+
+}
+p
+{
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
