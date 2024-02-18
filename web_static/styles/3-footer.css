@@ -1,15 +1,12 @@
-footer
-{
-    background-color:white; 
-    border-top: 1px solid #CCCCCC;
-    height: 60px; 
-    width: 100%; 
-    bottom:0%;
-
+footer {
+  background-color: white;
+  border-top: 1px solid #cccccc;
+  height: 60px;
+  width: 100%;
+  bottom: 0%;
 }
-p
-{
-    text-align: center;
-    padding-top: 7px;
-    padding-bottom: 7px;
+footer p {
+  text-align: center;
+  padding-top: 7px;
+  padding-bottom: 7px;
 }
